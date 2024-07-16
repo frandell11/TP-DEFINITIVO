@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1720884396 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1720884397 c:\users\tatia\onedrive\desktop\franco\tp programacon\menu.h
+
+1721097370 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"funciones.h"
+
+1721096137 c:\users\tatia\onedrive\desktop\franco\tp programacon\juego.h
+
+1721100819 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1721100894 c:\users\tatia\onedrive\desktop\franco\tp programacon\funciones.h
+
+1721100045 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1720737365 source:c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1720726857 c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\funciones.h
+
+1720737039 source:c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1720652652 c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\juego.h
+
+1720652652 source:c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1720652652 c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\menu.h
+
+1720652652 source:c:\users\agust\onedrive\escritorio\facultad programacion\tp-prog.-int-main\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1720738218 source:c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1720738218 c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\funciones.h
+
+1720738218 source:c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1720738218 c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\menu.h
+
+1720751454 source:c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1720748381 c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\juego.h
+
+1720748381 source:c:\users\bruno\desktop\trabajo 11.7\trabajo-main\tp-prog.-int-main\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1720816894 source:c:\users\agust\onedrive\escritorio\jhvjvg-main\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1720815733 c:\users\agust\onedrive\escritorio\jhvjvg-main\juego.h
+
+1720815733 c:\users\agust\onedrive\escritorio\jhvjvg-main\funciones.h
+
+1720815733 source:c:\users\agust\onedrive\escritorio\jhvjvg-main\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1720815733 c:\users\agust\onedrive\escritorio\jhvjvg-main\menu.h
+
+1720818354 source:c:\users\agust\onedrive\escritorio\jhvjvg-main\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"funciones.h"
+
+1720816401 source:c:\users\agust\onedrive\escritorio\jhvjvg-main\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1721103006 source:c:\users\nicol\downloads\tp-integrador-p-main\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1721103006 c:\users\nicol\downloads\tp-integrador-p-main\menu.h
+
+1721154697 source:c:\users\nicol\downloads\tp-integrador-p-main\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1721153411 c:\users\nicol\downloads\tp-integrador-p-main\juego.h
+
+1721154540 c:\users\nicol\downloads\tp-integrador-p-main\funciones.h
+
+1721154824 source:c:\users\nicol\downloads\tp-integrador-p-main\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"funciones.h"
+
+1721154697 source:c:\users\nicol\downloads\tp-integrador-p-main\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1721159225 source:c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1721159225 c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\funciones.h
+
+1721159571 source:c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1721159226 c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\juego.h
+
+1721159224 source:c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1721159224 c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\menu.h
+
+1721159224 source:c:\users\tatia\onedrive\desktop\tp dados programacion ult\tp dados programacion ultimo\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"funciones.h"
+
